@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-pcf8563t-rtc",
+  "title": "pcf8563t-rtc",
+  "keywords": "pcf8563t-rtc, esp32, esp8266, arduino",
+  "description": "Plugin pcf8563t-rtc for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-pcf8563t-rtc/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-pcf8563t-rtc/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
